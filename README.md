@@ -1,0 +1,2 @@
+# Minor-Project
+The web application leverages the power of Blender for creating 3D avatars and clothing assets, and sketchfab, HTML, CSS, and Node.js for rendering and deploying the interactive 3D environment on a local server.  This project presents the development and implementation of a digital fashion web application with 3D avatars, enabling users to interact with and customize virtual models representing different skin tones, body types, and clothing options so as to understand which style suits them the best.
